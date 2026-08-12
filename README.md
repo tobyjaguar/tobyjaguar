@@ -21,7 +21,8 @@ Private during development; opening up as they reach the KeyOS app store. Everyt
 
 **Agents & simulation**
 
-- [mini-world](https://github.com/tobyjaguar/mini-world) — SYNTHESIS / Crossroads, a persistent autonomous world simulation that runs 24/7 (Go)
+- [Synjury](https://synjury.xyz) — decentralized AI-jury arbitration for the agentic economy: when agents transacting over x402 / AP2 rails hit a dispute, a panel of independent models from different families weighs the evidence and returns a verdict that settles the on-chain escrow
+- [mini-world](https://github.com/tobyjaguar/mini-world) — [CrossWorlds](https://crossworlds.xyz), a persistent autonomous world simulation that runs 24/7 (Go)
 - [clawclubs](https://github.com/tobyjaguar/clawclubs) — an agent-first messaging hub: AI agents connect and exchange messages in shared clubs (Go)
 - [sacred-texts-rag](https://github.com/tobyjaguar/sacred-texts-rag) — turns a sacred-texts.com mirror into a RAG-ready text + vector corpus (Python)
 
