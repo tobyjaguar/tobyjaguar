@@ -1,8 +1,8 @@
 # Toby Jaguar
 
-Software engineer at [Kromeon](https://kromeon.com/), in San Diego. MSCS from NYU, MFA from UCSD.
+Software engineer | MSCS NYU, MFA UCSD
 
-I build in three directions that keep converging: **hardware-backed keys**, **smart contracts**, and **autonomous agents** — mostly in Go, TypeScript, and Solidity. I write about them at [tobyjaguar.com](https://tobyjaguar.com).
+I build in three directions that keep converging: **hardware-backed keys**, **smart contracts**, and **autonomous agents** — mostly in Rust/Go, TypeScript, and Solidity. I write about them at [tobyjaguar.com](https://tobyjaguar.com).
 
 ## Currently building
 
